@@ -2,7 +2,8 @@
   
 #import the library
 import streamlit as st
-  
+from PIL import image
+
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
 st.title("STREAMLIT WEB APP LET'S GOOOO")
 
